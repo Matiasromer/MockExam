@@ -12,7 +12,7 @@ namespace MockExamBoxVolume
     [ServiceContract]
     public interface IService1
     {
-
+        // Oprettet 2 metoder som henter volume os side
         [OperationContract]
         double GetVolume(double length, double width, double height);
 
