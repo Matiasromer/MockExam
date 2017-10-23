@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockExamBoxVolume", "MockEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockExamBoxVolumeTests", "MockExamBoxVolumeTests\MockExamBoxVolumeTests.csproj", "{9D4D154E-A4D4-4C05-A429-2D35CC88B9C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxVolumeConsumer", "BoxVolumeConsumer\BoxVolumeConsumer.csproj", "{2896115F-1BC8-493F-8EB2-E77B4B35C338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9D4D154E-A4D4-4C05-A429-2D35CC88B9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D4D154E-A4D4-4C05-A429-2D35CC88B9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D4D154E-A4D4-4C05-A429-2D35CC88B9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2896115F-1BC8-493F-8EB2-E77B4B35C338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2896115F-1BC8-493F-8EB2-E77B4B35C338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2896115F-1BC8-493F-8EB2-E77B4B35C338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2896115F-1BC8-493F-8EB2-E77B4B35C338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
